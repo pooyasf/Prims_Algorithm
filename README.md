@@ -1,2 +1,2 @@
-# Prims_Algorithm
+# Prim`s Algorithm
 Serial and Parallel implementation of Prim`s algorithm using openMP - Tested with SBM graph
